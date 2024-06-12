@@ -1,0 +1,16 @@
+body {background-color: darkblue;
+}
+@media screen and (max-width: 770px) {
+    
+        .part1 {color: red;
+          font-size: 150%;
+    
+        }
+        .part3 {color: darkorange;
+            font-size: 150%;
+        }
+        .part2 {color: blueviolet;
+          font-size: 150%;}
+          
+     }
+       
