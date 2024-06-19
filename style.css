@@ -13,4 +13,12 @@ body {background-color: darkblue;
           font-size: 150%;}
           
      }
+       .part1 {border-color: orangered;
+      
+       border-style: double;
+       border-width: 6px;
+     }
+
+     .part1 { margin-right: 20%;
+    }
        
