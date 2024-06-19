@@ -21,4 +21,20 @@ body {background-color: darkblue;
 
      .part1 { margin-right: 20%;
     }
+
+    .part2  {border-color: chartreuse;
+    
+     border-style: double;
+     border-width: 6px;
+    }
+    .part2 {margin-right: 20%;
+    }
+
+    .part3 {border-color: magenta;
+    
+     border-style: double;
+     border-width: 6px;
+    }
+
+    .part3 {margin-right: 20%;}
        
