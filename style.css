@@ -19,7 +19,7 @@ body {background-color: darkblue;
        border-width: 6px;
      }
 
-     .part1 { margin-right: 20%;
+     .part1 { margin-right: 30%;
     }
 
     .part2  {border-color: chartreuse;
@@ -36,6 +36,6 @@ body {background-color: darkblue;
      border-width: 6px;
     }
 
-    .part3 {margin-right: 20%;}
+    .part3 {margin-right: 40%;}
        
     body{ text-align: center;}
